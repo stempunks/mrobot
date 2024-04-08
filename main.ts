@@ -1,12 +1,11 @@
 /*
-Copyright (C): 2010-2019, Shenzhen Yahboom Tech
 modified from liusen
 load dependency
 "Tinybit": "file:../pxt-Tinybit"
 */
 
-//% color="#006400" weight=20 icon="\uf1b9"
-namespace Tinybit {
+//% color="#000000" weight=20 icon="\uf1b9"
+namespace MRobot {
 
     const PWM_ADD = 0x01
     const MOTOR = 0x02
